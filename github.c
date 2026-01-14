@@ -1,4 +1,6 @@
 #include <stdio.h>
+#include "github.h"
+
 //123
 #include "github.h"
 
@@ -11,5 +13,6 @@ void goodbye_world() {
 
 
 void hello_world() {
+    printf("Hello, World!!\n");
     printf("Hello, World!!\n");
 }
