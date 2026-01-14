@@ -4,7 +4,9 @@ void goodbye_world() {
     printf("Goodbye, World!\n");
 }
 
+#include "github.h"
+
 
 void hello_world() {
-    printf("Hello, World!\n");
+    printf("Hello, World!!\n");
 }
