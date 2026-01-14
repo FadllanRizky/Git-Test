@@ -2,5 +2,5 @@
 
 ## SOK ATUH
 
-~~ HHH ~~
+~~H~~
 * JJJ *
